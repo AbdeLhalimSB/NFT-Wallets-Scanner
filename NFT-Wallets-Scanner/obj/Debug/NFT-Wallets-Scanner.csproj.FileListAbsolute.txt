@@ -1,0 +1,10 @@
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\bin\Debug\NFT-Wallets-Scanner.exe.config
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\bin\Debug\NFT-Wallets-Scanner.exe
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\bin\Debug\NFT-Wallets-Scanner.pdb
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\obj\Debug\NFT-Wallets-Scanner.csproj.AssemblyReference.cache
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\obj\Debug\NFT_Wallets_Scanner.main.resources
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\obj\Debug\NFT_Wallets_Scanner.Properties.Resources.resources
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\obj\Debug\NFT-Wallets-Scanner.csproj.GenerateResource.cache
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\obj\Debug\NFT-Wallets-Scanner.csproj.CoreCompileInputs.cache
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\obj\Debug\NFT-Wallets-Scanner.exe
+C:\Users\sahba\OneDrive\Desktop\Working_Onit\NFT-Wallets-Scanner\NFT-Wallets-Scanner\obj\Debug\NFT-Wallets-Scanner.pdb
